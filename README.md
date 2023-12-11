@@ -1,5 +1,4 @@
 # cleverglow
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -13,7 +12,7 @@
 	<nav class="navbar bg-body-tertiary">
   <div class="container-right">
 	<a class="navbar-brand" href="inspirations.html">Inspirations</a>
-	<a class="navbar-brand" href="Contact.html">Contact</a>
+	<a class="navbar-brand" href="contact.html">Contact</a>
   </div>
 		</nav>
 	</header>
