@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {color: floralwhite;
+	position: relative; 
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; 
+	font-size: 70px; 
+	width: 100%; 
+}
+
+.jumbotron { background-image: url("images/Rainbow.jpeg");  
+	display: flex; 
+	align-items: center; 
+   background-size: cover;  
+    height: 500px;
+}
+.jumbotron h1 {
+font-size: 50px;
+font-weight:600;
+  margin: 0;
+  color: white;
+}
+.jumbotron h3 { margin: 0 0 20px;
+	color: papayawhip ;	
+}
+h3 { color:mediumaquamarine; 
+	
+	
+}
+p { color: black; 
+	position: relative; 
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; 
+}
+h4 { color: mediumorchid; 
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; 
+	
+}
+
+table {  font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+  border-collapse: collapse;
+  width: 100%;
+}
+  
+td, th {
+  border: 1px solid #9705F7;
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  background-color: mediumorchid;
+}
