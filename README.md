@@ -25,6 +25,7 @@
 	  <a class="btn btn-primary" href="joinourcommunity.html" role="button"  >Join Our Community</a>
 	  </div>
 </div>
+	<br> 
 	</section>
 	<section class="container"> 
 	<div class="row"> 
@@ -46,12 +47,10 @@
 		<p>Journey</p>
 	  <img src="images/blueocean.jpeg"  alt=""/> </figure>	
 	</div>
-	
+	<br> 
 </section>
-	<footer class="container">
-  <div class="row">
-	  <p>&copy; 2023 Cleverglow </p>
-  </div>
+<footer>
+<p>&copy; 2023 Cleverglow </p>
 </footer>
 	
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>	
